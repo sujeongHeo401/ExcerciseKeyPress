@@ -29,16 +29,16 @@ void main()
 			switch (pressKey)
 			{
 			case 72:
-				printf("Up key\n");
+				printf("Up key (72)\n");
 				break;
 			case 75:
-				printf("Left key\n");
+				printf("Left key (75)\n");
 				break;
 			case 77:
-				printf("Right key\n");
+				printf("Right key (77)\n");
 				break;
 			case 80:
-				printf("Down key\n");
+				printf("Down key (80)\n");
 				break;
 			}
 		}
